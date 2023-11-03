@@ -5,7 +5,6 @@
 ## I'm a Junior FrontEnd Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-- ⚽️ I like to watch football. My favorite team is "Sheriff" 
 - 🚘 I love cars
 
 ### Connect with me:
